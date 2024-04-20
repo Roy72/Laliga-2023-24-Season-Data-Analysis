@@ -20,7 +20,7 @@ pip install -r requiremnets.txt
 ```
 4.Download Chrome webdriver from : https://chromedriver.chromium.org/downloads
 
-5. Run the scarper 
+5. Run the scarper
  ---> Laliga Player Data Analysis
  ```bash
 python Laliga Player Data Analysis/Laliga_player_score.py
