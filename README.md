@@ -1,6 +1,6 @@
 # Laliga-2023-24-Season-Data-Analysis
 
-##Build From repo
+##Build From Sources
 1.Clone the repo
 ```bash
 git clone https://github.com/Roy72/Laliga-2023-24-Season-Data-Analysis.git
