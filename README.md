@@ -1,7 +1,7 @@
 # Laliga-2023-24-Season-Data-Analysis
 
 ## Problem Satement
-The goal is to analysis the Laliga 2023-24 Season Data after 30 matches. From [Laliga Official Website](https://www.laliga.com/en-GB/stats/laliga-easports/scorers) <br/> scraped all the registered player `Scores` , `Assists` & `Passes`  to analyze the `Laliga Player Data Analysis` . Secondly, from [Team Data](https://www.laliga.com/en-GB/stats/laliga-easports/team)<br/>  `Team` data and from [Standings](https://www.laliga.com/en-GB/laliga-easports/standing)<br/> `Team standings` are scraped for `Laliga Team Data Analysis`.
+The goal is to analysis the Laliga 2023-24 Season Data after 30 matches. From [Laliga Official Website](https://www.laliga.com/en-GB/stats/laliga-easports/scorers) <br/> scraped all the registered player `Scores`, `Assists` & `Passes`  to analyze the `Laliga Player Data Analysis` . Secondly, from [Team Data](https://www.laliga.com/en-GB/stats/laliga-easports/team)<br/>  `Team` data and from [Standings](https://www.laliga.com/en-GB/laliga-easports/standing)<br/> `Team standings` are scraped for `Laliga Team Data Analysis`.
 
 Afterwards we utlized the `Laliga Player Data Analysis` to understand the following [visualization](https://public.tableau.com/app/profile/anik.roy4166/viz/LALIGAPLAYERDATAANALYSIS2023-2430MATCH/Dashboard1)<br/>
 1. Barchart of showing  player and aggregated by their team goals, assits & passes.
