@@ -38,7 +38,7 @@ source venv/bin/activate
 ```bash
 pip install -r requiremnets.txt
 ```
-4.Download Chrome webdriver from : https://chromedriver.chromium.org/downloads
+4.[Download Microsoft Edge Webdriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH#downloads) <br/>
 
 5. Run the scarper
  ---> Laliga Player Data Analysis
